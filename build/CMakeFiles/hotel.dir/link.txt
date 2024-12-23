@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/hotel.dir/hotel.c.o -o hotel 

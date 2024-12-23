@@ -1,0 +1,3 @@
+/home/liu/hotel/build/CMakeFiles/hotel.dir
+/home/liu/hotel/build/CMakeFiles/edit_cache.dir
+/home/liu/hotel/build/CMakeFiles/rebuild_cache.dir
